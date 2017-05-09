@@ -1,0 +1,19 @@
+#rightArrow{
+	width: 6.25%;
+	display: flex;
+	flex-direction: right;
+	float: right;
+	margin-top:250px;
+}
+#leftArrow{
+	max-width: 10%;
+	display: flex;
+	flex-direction: left;
+	float: left;
+	margin-top: 250px;
+	margin-left: -2%;
+}
+#autoPlay{
+	margin-top:100%;
+	margin-left: 35%;
+}
