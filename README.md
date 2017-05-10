@@ -1,6 +1,6 @@
 # SlideShow using jquery, ajax.
 
-*This is my first upload*
+*Second upload app works the auto play feature was fun to do*
 
 ## Instructions
 >Click on either the right or left arrow to view an image with its caption and description.

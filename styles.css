@@ -16,4 +16,31 @@
 #autoPlay{
 	margin-top:100%;
 	margin-left: 35%;
+	
+}
+#apod_vid_id{
+	width:80%;
+	margin-left: 30px;
+}
+#copyright{
+	text-align: center;
+}
+#apod_title{
+	text-align: center;
+}
+#apod_img_id{
+	width: 70%;
+	margin-left: 75px;
+}
+#apod_explaination{
+	text-align: center;
+}
+body{
+	background-color: slategrey;
+}
+h1{
+	text-align: center;
+}
+.hidden{
+	visibility: hidden;
 }
